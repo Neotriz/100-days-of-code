@@ -58,3 +58,7 @@ var threeSum = function(nums) {
   return result
 };
 ```
+
+**Today's Progress**: FCC's NightLife Coordination App
+
+**Thoughts** Today I've completed simple LogIn/Signup/Signoff routes using JWT and Express (REST Architecture). I will need to come up with how to keep track users on which venues they are going. Cosmetics will be last to do on the list
