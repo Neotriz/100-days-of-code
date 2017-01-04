@@ -62,3 +62,18 @@ var threeSum = function(nums) {
 **Today's Progress**: FCC's NightLife Coordination App
 
 **Thoughts** Today I've completed simple LogIn/Signup/Signoff routes using JWT and Express (REST Architecture). I will need to come up with how to keep track users on which venues they are going. Cosmetics will be last to do on the list
+
+
+### Day 1: January 3 2017
+
+**Today's Progress**: Working on FCC's Nightlife Coordination App
+
+**Thoughts** Today I've felt I made many progress. I am very close to finishing the overall functunality including
++ As an unauthenticated user, when I login I should not have to search again.
++ As an authenticated user, I can add myself to a bar to indicate I am going there tonight
++ As an authenticated user, I can remove myself from a bar if I no longer want to go there.
+
+However I made the following progress:
+1. Active Tabs are working properly when re-rendering the pages
+2. Users can see if they are logged in or not via Materialice's CSS
+3.  Users's database are updated when they make search
