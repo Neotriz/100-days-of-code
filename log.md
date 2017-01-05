@@ -77,3 +77,14 @@ However I made the following progress:
 1. Active Tabs are working properly when re-rendering the pages
 2. Users can see if they are logged in or not via Materialice's CSS
 3.  Users's database are updated when they make search
+
+
+### Day 2: January 4th 2017
+
+**Today's Progress**: Working on FCC's Nightlife Coordination App
+
+**Thoughts**: Though relatively simple I've completed one of the user stories':
++ As an unauthenticated user, when I login I should not have to search again.
+
+
+Unfortunately today marks my last say in Florida to spend my time with them. Back to CA! I am hoping to finish the rest of the functunality by the end of this week!
