@@ -94,3 +94,13 @@ Unfortunately today marks my last say in Florida to spend my time with them. Bac
 **Today's Progress:** Working on FCC's Nightlife Coordination App
 
 **Thoughts**: I made progress on how to implement logically on how to keep track of other user's RSVP, as well as the current user's RSVP. I spent my coding during my time flying from Florida to California. Jet lag is kicking soon...
+
+### Day 4th: January 6th 2017
+
+**Today's Progress:** Resume 2017
+
+**Thoughts**: I finally updated my resume for 2017. It's amazing that looking back from my 2016 resume, I learned a lot of technologies :)
+
+**Today's Progress:** Working on FCC's Nightlife Coordination App
+
+**Thoughts**: Unfortunately I did make any progress, other than refactoring the logic of keeping track of users without using React-Form. Spent most of the day working on my resume :-)
