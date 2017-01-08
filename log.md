@@ -104,3 +104,9 @@ Unfortunately today marks my last say in Florida to spend my time with them. Bac
 **Today's Progress:** Working on FCC's Nightlife Coordination App
 
 **Thoughts**: Unfortunately I did make any progress, other than refactoring the logic of keeping track of users without using React-Form. Spent most of the day working on my resume :-)
+
+### Day 5th: January 7th 2017
+
+**Today's Progress:** Working on FCC's Nightlife Coordination App
+
+**Thoughts**: Good news everyone! I finished 85% with the Nightlife App! Now it needs some debugging and cosmetic layouts :)
