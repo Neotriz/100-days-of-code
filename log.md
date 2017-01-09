@@ -110,3 +110,9 @@ Unfortunately today marks my last say in Florida to spend my time with them. Bac
 **Today's Progress:** Working on FCC's Nightlife Coordination App
 
 **Thoughts**: Good news everyone! I finished 85% with the Nightlife App! Now it needs some debugging and cosmetic layouts :)
+
+### Day 6th: January 8th 2017
+
+**Today's Progress:** Working on FCC's Nightlife Coordination App
+
+**Thoughts**: Promise, promise... more promise!! 
