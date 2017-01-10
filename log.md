@@ -115,4 +115,10 @@ Unfortunately today marks my last say in Florida to spend my time with them. Bac
 
 **Today's Progress:** Working on FCC's Nightlife Coordination App
 
-**Thoughts**: Promise, promise... more promise!! 
+**Thoughts**: Promise, promise... more promise!!
+
+### Day 7th: January 9th 2017
+
+**Today's Progress:** Working on FCC's Nightlife Coordination App
+
+**Thoughts**: Officially done with the app! It can now show list of guests via modal and keep track of current users' RSVP. Now onto CSS and aesthetic ;)
