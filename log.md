@@ -122,3 +122,14 @@ Unfortunately today marks my last say in Florida to spend my time with them. Bac
 **Today's Progress:** Working on FCC's Nightlife Coordination App
 
 **Thoughts**: Officially done with the app! It can now show list of guests via modal and keep track of current users' RSVP. Now onto CSS and aesthetic ;)
+
+### Day 8th: January 10th 2017
+
+**Today's Progress:** Working on FCC's Nightlife Coordination App
+
+**Thoughts**: 99% done with the app. I've messed/tinkerd around with CSS layouts, as well as UX design experience including
+- Implemented `google-map-react`
+- Adding queries for more robust responsive
+- Add flexbox in home page to render YelpCards and Google map
+
+Last thing need to do is render markers correctly and off to deployment!
